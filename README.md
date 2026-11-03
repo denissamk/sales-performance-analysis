@@ -1,6 +1,6 @@
 # Introduction
 
-**This project is an end-to-end E-commerce Sales Analytics Dashboard**, built using the Olist Brazilian E-commerce dataset. **The dashboard provides visibility into sales performance, product categories, customer behavior, geographic distribution, payment methods, and operational efficiency.** By leveraging a star schema data model and multiple analytical views, stakeholders can explore key business metrics and identify trends that drive business performance
+**This project is an end-to-end E-commerce Sales Analytics Dashboard**, built using the Olist Brazilian E-commerce dataset. **The dashboard provides visibility into sales performance, product categories, customer behavior, geographic distribution, payment methods, and operational efficiency.** By leveraging a star schema data model and multiple analytical views, stakeholders can explore key business metrics and identify trends that drive business performance.
 
 # Background
 
